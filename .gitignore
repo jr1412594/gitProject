@@ -1,0 +1,12 @@
+/text1.txt
+/text2.txt
+
+/index.html
+/style.css
+
+# auto-gen-files
+
+auto-gen-files/*.txt
+# auto-gen-files/a.txt
+# auto-gen-files/b.txt
+# auto-gen-files/c.txt
